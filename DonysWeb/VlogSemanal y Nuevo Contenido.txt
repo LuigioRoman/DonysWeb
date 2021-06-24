@@ -1,0 +1,11 @@
+Hola, es bueno verte por aqui.
+	
+	Soy Donis, un gato que le gusta saber acerca de los humanos.
+	A lo largo de mis vidas he logrado compender muchas cosas sobre los humanos, observando e interactuando con ellos.
+
+	Ahora que he logrado conocer mas, aunque aun me falta mucho por saber, me gustaria compartir con ustedes semana a semana, como es la interaccion humana desde los ojos de un gato.
+
+	Cambios:
+	1. Crear seccion "juega con donys" donde se colocara un juego programado en javascript que cambiara mensualmente.
+
+	2. Cambiar lugar en los html de el enlace a estilos, al final del <body>.
